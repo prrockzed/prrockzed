@@ -1,5 +1,5 @@
 - Hi 👋, I'm @pr-rockz
-- 👀 I’m interested in Computers
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Machine Learning, Web Development and Computer Vision.
 - 💞️ I’m looking to collaborate on Web Development and ML.
 - 📫 How to reach me
