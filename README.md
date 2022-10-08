@@ -26,7 +26,7 @@
 
 <h3>Stats About My GitHub Account</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr-rockz&show_icons=true&locale=en&layout=compact" alt="pr-rockz" /></p>
-
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr-rockz&show_icons=true&locale=en" alt="pr-rockz" /></p>
 <hr>
 
