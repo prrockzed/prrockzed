@@ -5,7 +5,7 @@
 
 <hr>
 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 
 <h3>Overview</h3>
