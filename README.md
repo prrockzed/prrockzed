@@ -26,8 +26,7 @@
 
 <h3>Stats About My GitHub Account</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr-rockz&show_icons=true&locale=en&layout=compact" alt="pr-rockz" /></p>
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr-rockz&show_icons=true&locale=en" alt="pr-rockz" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=pr-rockz&show_icons=true&locale=en&theme=dracula" alt="pr-rockz" /></p><br><br><br><br><br><br><br><br><br>
 <hr>
 
 <h3 align="left"> 📫 Connect with me:  <a href="https://twitter.com/pr_rockz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pr_rockz1" height="25" width="32" /></a>
