@@ -25,13 +25,11 @@
 <hr>
 
 <h3>Stats About My GitHub Account</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr-rockz&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="pr-rockz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr-rockz&show_icons=true&locale=en&layout=compact&theme=aura" alt="pr-rockz" /></p>
 <br clear="all" /><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pr-rockz&show_icons=true&locale=en&theme=radical" alt="pr-rockz" /></p>
 <br clear="all" /><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pr-rockz&repo=github-readme-stats" alt="pr-rockz" /></p>
-<br clear="all" /><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pr_rockz&theme=dark" alt="pr-rockz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pr_rockz&theme=maroongold" alt="pr-rockz" /></p>
 <br clear="all" /><br>
 <hr>
 
