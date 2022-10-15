@@ -29,6 +29,7 @@
 <br clear="all" /><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pr-rockz&show_icons=true&locale=en&theme=radical" alt="pr-rockz" /></p>
 <br clear="all" /><br>
+<h3>Wakatime Stats of my Coding Activity in the Local Machine</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pr_rockz&theme=maroongold" alt="pr-rockz" /></p>
 <br clear="all" /><br>
 <hr>
