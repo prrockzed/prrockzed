@@ -54,7 +54,7 @@
 </details>
 
 <details id=4 open>
-<summary><h3>Wakatime Stats of my Coding Activity in the Local Machine</h3></summary>
+<summary><h3>Coding Activity Stats in the Local Machine of the Past 7 days</h3></summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pr_rockz&theme=maroongold" alt="pr-rockz" /></p>
 <br clear="all" />
 </details>
