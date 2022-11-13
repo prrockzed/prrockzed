@@ -24,6 +24,7 @@
 <details id=2 open>
 <summary><h3 align="left">Languages and Tools:</h3></summary>
 <ul>
+  <li>Bash Shell</li>
   <li>C</li>
   <li>C++</li>
   <li>Java</li>
