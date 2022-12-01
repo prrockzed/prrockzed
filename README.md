@@ -10,9 +10,9 @@
 
 <img align="right" alt="coding" width="225" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-- 🌱 I’m currently learning **Web Development, Machine Learning**
+- 🌱 I’m currently learning **Web Development and Shell Scripting**
 
-- 👯 I’m looking to collaborate on **Web-Dev and ML**
+- 👯 I’m looking to collaborate on **Web-Dev**
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Priyanshu-Ranjan-236](https://www.quora.com/profile/Priyanshu-Ranjan-236)
 
