@@ -29,7 +29,11 @@
   <li>C++</li>
   <li>Java</li>
   <li>HTML</li>
-  <li>CSS</li>
+  <li>CSS
+    <ul>
+      <li>Bootstrap CSS</li>
+    </ul>
+  </li>
   <li>Python
     <ul>
       <li>PyGame</li>
@@ -38,6 +42,7 @@
   <li>Javascript
     <ul>
       <li>React</li>
+      <li>NodeJS</li>
     </ul>
   </li>
 </ul>
