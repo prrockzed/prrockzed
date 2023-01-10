@@ -56,17 +56,17 @@
 <br clear="all" /><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=prrockzed&show_icons=true&locale=en&theme=radical" alt="pr-rockz" />
 <br clear="all" /><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-rockz&theme=dracula"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prrockzed&theme=dracula"/>
 </details>
 
 <details id=4 open>
 <summary><h3>Coding Activity Stats in the Local Machine of the Past 7 days</h3></summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=prrockzed&theme=maroongold" alt="pr-rockz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=prrockzed&theme=maroongold" alt="prrockzed" /></p>
 <br clear="all" />
 </details>
 <hr>
 
-<h3 align="left"> 📫 Connect with me:  <a href="https://twitter.com/pr_rockz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pr_rockz1" height="25" width="32" /></a>
+<h3 align="left"> 📫 Connect with me:  <a href="https://twitter.com/prrockzed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prrockzed" height="25" width="32" /></a>
 <a href="https://linkedin.com/in/priyanshu ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu ranjan" height="25" width="32" /></a>
-<a href="https://fb.com/priyanshu ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu ranjan" height="25" width="32" /></a> <a href="https://t.me/pr_rockz" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/froyoshark/enkel/128/Telegram-icon.png" alt="priyanshu ranjan" width="32" /></a> </h3>
+<a href="https://fb.com/priyanshu ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu ranjan" height="25" width="32" /></a> <a href="https://t.me/prrockzed" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/froyoshark/enkel/128/Telegram-icon.png" alt="priyanshu ranjan" width="32" /></a> </h3>
 <h3><img align="right" src="https://komarev.com/ghpvc/?username=pr-rockz&label=Profile%20views&color=0e75b6&style=flat" alt="pr-rockz" /></h3>
