@@ -1,7 +1,8 @@
 <h1 align="Center">Hi 👋, I'm Priyanshu Ranjan</h1>
-<h3 align="center">Programming Enthusiast from India🇮🇳🇮🇳</h3>
+<h3 align="center">Programming Enthusiast from India</h3>
 <h5 align="left">Nice to see you!!</h5>
-<h5 align="left">Welcome to my Page!<br>I'm a Passionate Programmer from <strong>Jharkhand</strong> currently living in  <img alt="coding" width="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/IIT_Kharagpur_Logo.svg/1200px-IIT_Kharagpur_Logo.svg.png"> IIT Kharagpur</h5>
+<h5 align="left">Welcome to my Page!<br>I'm a Passionate Developer from IIT Kharagpur</h5>
+<!--  <img alt="coding" width="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/IIT_Kharagpur_Logo.svg/1200px-IIT_Kharagpur_Logo.svg.png">  -->
 
 <hr>
 
@@ -10,13 +11,11 @@
 
 <img align="right" alt="coding" width="225" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-- 🌱 I’m currently learning **Web Development and Shell Scripting**
+- 🌱 I’m currently learning **Web Development, Shell Scripting**
 
-- 👯 I’m looking to collaborate on **Web-Dev**
+- 👯 I’m looking to collaborate on **Web-Dev, Shell and Automation Projects**
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Priyanshu-Ranjan-236](https://www.quora.com/profile/Priyanshu-Ranjan-236)
-
-- 💬 Ask me about **Anything**
 
 - ☕️ Loves to have a conversation over a Cup of Coffee
 </details>
@@ -24,27 +23,12 @@
 <details id=2 open>
 <summary><h3 align="left">Languages and Tools:</h3></summary>
 <ul>
-  <li>Bash Shell</li>
-  <li>C</li>
-  <li>C++</li>
-  <li>Java</li>
-  <li>HTML</li>
-  <li>CSS
-    <ul>
-      <li>Bootstrap CSS</li>
-    </ul>
-  </li>
-  <li>Python
-    <ul>
-      <li>PyGame</li>
-    </ul>
-  </li>
-  <li>Javascript
-    <ul>
-      <li>React</li>
-      <li>NodeJS</li>
-    </ul>
-  </li>
+  <li><b>Languges - </b>C, C++, Python, Javascript, Typescript, Bash, Lua, HTML, CSS</li>
+  <li><b>Libraries - </b>ThreeJS, PyGame</li>
+  <li><b>Tools and Frameworks - </b>Bootstrap, ReactJS, NodeJS, ExpressJS, Selenium, Django, Flask</li>
+  <li><b>Databases - </b>MongoDB, MySQL, PostgreSQL</li>
+  <li><b>Dev Tools - </b>Neovim, Vim, VS Code, VS Codium, Sublime Text, Git, Github</li>
+  <li><b>Libraries - </b>Unix(MacOS), Linux(Ubuntu, Kali), Windows(XP, 7, 8, 8.1, 10, 11)</li>
 </ul>
 </details>
 
