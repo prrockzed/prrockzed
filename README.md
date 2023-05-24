@@ -28,7 +28,7 @@
   <li><b>Tools and Frameworks - </b>Bootstrap, ReactJS, NodeJS, ExpressJS, Selenium, Django, Flask</li>
   <li><b>Databases - </b>MongoDB, MySQL, PostgreSQL</li>
   <li><b>Dev Tools - </b>Neovim, Vim, VS Code, VS Codium, Sublime Text, Git, Github</li>
-  <li><b>Libraries - </b>MacOS, Linux(Ubuntu, Kali), Windows(XP, 7, 8, 8.1, 10, 11)</li>
+  <li><b>Operating Systems - </b>MacOS, Linux(Ubuntu, Kali), Windows(XP, 7, 8, 8.1, 10, 11)</li>
 </ul>
 </details>
 
