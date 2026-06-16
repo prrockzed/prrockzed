@@ -12,10 +12,10 @@
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prrockzed&layout=compact&theme=dark)
 
-</br>
+<!-- </br>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=prrockzed)
-
+ -->
 
 
 <!-- <details id=4 open>
