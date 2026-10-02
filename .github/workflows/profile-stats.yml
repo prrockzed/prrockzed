@@ -18,6 +18,7 @@ jobs:
   summary-cards:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -34,7 +35,7 @@ jobs:
           outputs: |
             dist/snake-light.svg
             dist/snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
